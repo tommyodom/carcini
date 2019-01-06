@@ -1,0 +1,30 @@
+* TODO orient website
+** sections
+*** src:books
+*** src:classic articles
+*** src:prose
+*** src:classic papers
+*** submissions
+*** Podcast
+*** misc:Tools
+*** diserto
+*** Image Gallery
+*** about
+*** src:music
+*** src:art
+*** mentat
+** themes
+*** inspiration
+    - https://gchauras.github.io/much-worse-jekyll-theme/
+    - https://jekyllthemes.io/theme/jekyll-clean
+    - https://jekyllthemes.io/theme/hyde
+    - https://clayh53.github.io/tufte-jekyll/
+    - https://jekyllthemes.io/theme/thinkspace
+    - https://jekyllthemes.io/theme/simplest
+ 
+*** general idea
+    I really am a big fan of the much worse jekyll theme particularly on surf. For me the big thing is the merging of dwm,st,emacs,nnn and hot surface. Proper minimalism which has an aesthetic element reaching back to the 90s grunge cyberpunk. 
+
+** font
+** art
+** mobile optimization
